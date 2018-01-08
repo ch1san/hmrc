@@ -1,0 +1,29 @@
+.container {
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    font-family: $arial;
+}
+
+.input {
+	width: 100px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	box-shadow: 0px 0px 0px 0px #ccc;
+	padding: 5px;
+}
+
+.button {
+	display: block;
+	background-color: #30713D;
+	border-bottom: 2px solid #1D3920;
+	padding: 8px 12px;
+	color: #fff;
+	margin-bottom: 30px;
+}
+
+.declaration {
+	margin-bottom: 20px;
+	margin-top: 20px;
+}

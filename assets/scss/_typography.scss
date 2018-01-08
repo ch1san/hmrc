@@ -1,0 +1,22 @@
+h1 {
+	font-size: 50px;
+	margin-bottom: 40px;
+}
+
+h2 {
+	font-size: 20px;
+	margin-bottom: 15px;
+}
+
+p {
+	a {
+		color: #5A7B96;
+		display: inline-block;
+		margin-left: 30px;
+
+		&.help {
+			color: #606060;
+			margin-left: 0;
+		}
+	}
+}
